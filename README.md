@@ -1,4 +1,4 @@
-# vilas-midi
+# Vilas Midi
 
 Projeto sons de instrumento.
 
