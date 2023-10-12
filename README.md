@@ -2,7 +2,7 @@
 
 Projeto sons de instrumento.
 
-## 🚀 Tecnologias
+<h3> 🚀 Tecnologias </h3>
 
 - HTML 
 - CSS
