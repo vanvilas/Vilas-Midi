@@ -2,9 +2,13 @@
 
 ![preview](<Captura da Web_11-10-2023_212953_.jpeg>)
 
-_**Veja o resultado [clicando aqui](https://vanvilas.github.io/vilas-midi)**_
+## 💻 Projeto
 
 Projeto sons de instrumento.
+
+_**Veja o resultado [clicando aqui](https://vanvilas.github.io/vilas-midi)**_
+
+
 
 ## 🚀 Tecnologias
 
