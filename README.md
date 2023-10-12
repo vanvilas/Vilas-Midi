@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Projeto sons de instrumento.
+Este projeto foi desenvolvido para tocar sons de instrumentos ao clicar.
 
 _**Veja o resultado [clicando aqui](https://vanvilas.github.io/vilas-midi)**_
 
